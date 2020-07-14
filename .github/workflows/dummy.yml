@@ -1,4 +1,4 @@
-name: mvn_test
+name: mvn_test_dummy
 
 on:
  push:
